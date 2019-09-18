@@ -17,7 +17,8 @@ React Native Local and Remote Notifications for iOS and Android
 Changelog is available from version 3.1.1 here: [Changelog](https://github.com/zo0r/react-native-push-notification/blob/master/CHANGELOG.md)
 
 ## Installation
-`npm install --save react-native-push-notification` or `yarn add react-native-push-notification`
+
+`npm install --save ngager-group/react-native-push-notification` or `yarn add ngager-group/react-native-push-notification`
 
 `react-native link react-native-push-notification`
 
